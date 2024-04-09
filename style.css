@@ -51,6 +51,6 @@
 #child5{
     grid-column: 1/3;
     grid-row: 4;
-    background: url(imghue.jpg);
+    background: url(/images/img.jpg);
     background-size: cover;
 }
