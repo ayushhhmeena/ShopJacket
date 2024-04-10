@@ -198,6 +198,7 @@ html, body{
 
     #shipping{
         border-bottom: 1px solid black;
+        padding-bottom: 1vh;
     }
 
     .elm i{
