@@ -118,6 +118,7 @@ html, body{
     width: 100%;
     background: url(img.jpg);
     background-size: cover;
+    background-position: 41%;
 }
 
 @media (max-width:600px){
