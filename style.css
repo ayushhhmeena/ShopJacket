@@ -179,7 +179,7 @@ html, body{
     #smalltext p{
         font-size: 3.5vw;
         font-weight: 100;
-        line-height: 3vw;
+        line-height: 3.6vw;
         padding-bottom: 6vw;
     }
 
@@ -193,7 +193,7 @@ html, body{
         border-top: 1px solid black;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-between;
         padding: 3vw;
         margin: 0;
     }
@@ -203,9 +203,9 @@ html, body{
     }
 
     .elm i{
-        font-size: 1.1vw;
-        font-weight: 700;
-        opacity: 0;
+        font-size: 4vw;
+        font-weight: 100;
+        opacity: 1;
     }
 
     .elm a{
@@ -213,18 +213,6 @@ html, body{
         text-decoration: none;
         font-weight: 200;
         font-size: 3.5vw;
-    }
-
-    .elm:hover{
-        background-color: rgb(237, 237, 237);
-    }
-
-    .elm:hover a{
-        text-decoration: underline;
-    }
-
-    .elm:hover i{
-        opacity: 1;
     }
 
     #footer{
